@@ -23,4 +23,4 @@ Exceptionally strong in data structures and algorithms, a skill honed through pe
 As I approach the culmination of my studies, I'm eager to immerse myself in the open-source community, particularly in projects that align with my interests in storage solutions and Kubernetes. My goal is to leverage my academic knowledge and practical experience to make meaningful contributions to these projects, while also seeking opportunities to grow in areas like cloud computing.
 
 #### Let's Connect!
-Interested in discussing technology, open-source projects, or potential collaborations? Feel free to reach out to me through [Linkedin]("www.linkedin.com/in/sacha-slomovits")
+Interested in discussing technology, open-source projects, or potential collaborations? Feel free to reach out to me through [Linkedin](https://www.linkedin.com/in/sacha-slomovits)
